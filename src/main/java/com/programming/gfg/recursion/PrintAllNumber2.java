@@ -15,6 +15,5 @@ public class PrintAllNumber2 {
         }
         System.out.println(base);
         printAllNumbers(number,base+1);
-
     }
 }
